@@ -1,9 +1,4 @@
 <h1 align="center">Daniel Wolker</h1>
-
-<div align="center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danwolker&show_icons=true&theme=default&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwolker&layout=compact&langs_count=7&theme=default"/>
-</div>
   
 <br>
 
