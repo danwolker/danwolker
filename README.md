@@ -1,10 +1,5 @@
 <h1 align="center">Daniel Wolker</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-iglessias-b1416020b/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> </a>
-<a href="mailto:danewolker@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> </a>
-</p>
-
 <div align="center">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danwolker&show_icons=true&theme=default&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwolker&layout=compact&langs_count=7&theme=default"/>
